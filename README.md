@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SapnaSaini1
-- 👀 I’m interested in Python,Automation and Data science
-- 🌱 I’m currently working some cool python project
+- 👀 I’m interested in Python, Automation and Data Science.
+- 🌱 I’m currently working on some coolPythonn project
 - 💞️ I’m looking to collaborate on a Python project.
 
  
